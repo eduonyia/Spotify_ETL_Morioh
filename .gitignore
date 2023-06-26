@@ -1,0 +1,5 @@
+.idea
+.cache
+.env
+track_info.csv
+spotify.csv
